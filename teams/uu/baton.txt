@@ -27,8 +27,8 @@ Jolly Nature
 
 Kingdra @ Scope Lens
 Ability: Sniper
-EVs: 252 Def / 252 SDef
-Modest Nature
+EVs: 4 HP / 252 SAtk / 252 Spd
+Timid Nature
 - Focus Energy
 - Surf
 - Draco Meteor
@@ -45,7 +45,7 @@ Timid Nature
 
 Aggron @ Leftovers
 Ability: Rock Head
-EVs: 252 Atk / 252 HP / 4 SDef
+EVs: 252 HP / 252 Atk / 4 SDef
 Adamant Nature
 - Autotomize
 - Head Smash
