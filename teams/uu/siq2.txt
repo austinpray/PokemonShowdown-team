@@ -1,0 +1,57 @@
+Umbreon @ Leftovers
+Ability: Synchronize
+Shiny: Yes
+EVs: 252 HP / 4 Def / 252 SDef
+Serious Nature
+- Wish
+- Protect
+- Foul Play
+- Toxic
+
+Porygon-Z @ Life Orb
+Ability: Download
+EVs: 96 HP / 252 SAtk / 160 Spd
+Modest Nature
+- Agility
+- Tri Attack
+- Psyshock
+- Hidden Power [Fighting]
+
+Aerodactyl @ Aerodactylite
+Ability: Pressure
+Shiny: Yes
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature
+- Crunch
+- Wing Attack
+- Stone Edge
+- Earthquake
+
+Cloyster @ King's Rock
+Ability: Skill Link
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature
+- Shell Smash
+- Icicle Spear
+- Rock Blast
+- Ice Shard
+
+Kingdra (M) @ Scope Lens
+Ability: Sniper
+Shiny: Yes
+EVs: 4 HP / 252 SAtk / 252 Spd
+Modest Nature
+- Focus Energy
+- Surf
+- Draco Meteor
+- Substitute
+
+Crawdaunt @ Leftovers
+Ability: Adaptability
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Knock Off
+- Aqua Jet
+- Crabhammer
+- Protect
+
